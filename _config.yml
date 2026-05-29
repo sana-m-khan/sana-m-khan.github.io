@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Sana Khan # the main title
 
-tagline: Student aspiring to work Cybersecurity # it will display as the subtitle
+tagline: Student aspiring to work in Cybersecurity # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -27,9 +27,6 @@ url: "https://sana-m-khan.github.io"
 
 github:
   username: sana-m-khan # change to your GitHub username
-
-twitter:
-  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
